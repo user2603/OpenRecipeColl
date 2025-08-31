@@ -1,0 +1,10 @@
+{
+  "cuisines": [
+    "japanese"
+  ],
+  "utensils": [
+    "chef_knife",
+    "mixing_bowl",
+    "cutting_board"
+  ]
+}
