@@ -1,0 +1,10 @@
+{
+  "cuisines": [
+    "hungarian"
+  ],
+  "utensils": [
+    "chef_knife",
+    "tongs",
+    "oven"
+  ]
+}
