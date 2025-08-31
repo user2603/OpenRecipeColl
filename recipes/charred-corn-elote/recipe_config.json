@@ -1,0 +1,10 @@
+{
+  "cuisines": [
+    "mexican"
+  ],
+  "utensils": [
+    "chef_knife",
+    "cutting_board",
+    "saucepan"
+  ]
+}
