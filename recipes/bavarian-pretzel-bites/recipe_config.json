@@ -1,0 +1,10 @@
+{
+  "cuisines": [
+    "german"
+  ],
+  "utensils": [
+    "chef_knife",
+    "saucepan",
+    "mixing_bowl"
+  ]
+}
