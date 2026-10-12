@@ -1,0 +1,10 @@
+{
+  "cuisines": [
+    "mediterranean"
+  ],
+  "utensils": [
+    "chef_knife",
+    "oven",
+    "mixing_bowl"
+  ]
+}
